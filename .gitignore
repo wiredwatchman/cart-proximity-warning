@@ -1,0 +1,10 @@
+# Python / MicroPython tooling
+__pycache__/
+*.pyc
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
